@@ -1,24 +1,38 @@
-# KiCad Learning Projects
+# KiCad Learning
 
-This repository contains my PCB design practice projects using KiCad.
+Welcome to my KiCad learning repository.
+
+This repository contains the PCB design projects I create while learning KiCad.
 
 ## Projects
 
-### 1. LED PCB Design
-- My first PCB project
-- Learned schematic design, PCB routing, and DRC check
+### 1. LED Blink Circuit
+- My first PCB design using KiCad.
+- Includes schematic and PCB layout.
+- Learned:
+  - Schematic creation
+  - Component placement
+  - PCB routing
+  - Design Rule Check (DRC)
 
-### 2. 555 Timer LED Blinking Circuit
-- Designed an astable multivibrator using the 555 timer IC
-- LED blinking circuit based on timing components (resistor & capacitor)
-- Learned working of 555 timer in astable mode
-- Improved schematic design and PCB layout skills in KiCad
+### 2. [Your Second Project Name]
+- Brief description of the project.
+- Skills learned.
 
-## Skills I am learning
-- PCB schematic design
-- PCB layout and routing
-- KiCad workflow
-- Basic analog electronics (555 timer, RC timing circuits)
+### 3. Push Button LED
+- LED controlled using a push button switch.
+- Learned:
+  - Push button connections
+  - Input and output circuits
+  - Schematic design
+  - PCB routing
 
-## Goal
-To improve my PCB design skills and build real-world embedded electronics projects step by step.
+### 4. Transistor LED Circuit
+- LED controlled using a transistor as a switch.
+- Learned:
+  - Basics of transistor switching
+  - Biasing components
+  - Schematic capture
+  - PCB layout and routing
+
+More projects will be added as I continue learning.
