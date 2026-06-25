@@ -25,6 +25,17 @@ This repository contains my PCB design practice projects created while learning 
 - Learned the basics of transistor operation and switching applications
 - Improved understanding of electronic components and PCB design workflow
 
+### 5. Traffic light controller
+- - PCB schematic design
+- PCB layout and routing
+- Design Rule Check (DRC)
+- KiCad workflow
+- Electronic circuit design
+- 555 Timer applications
+- Switch and transistor circuits
+- Traffic light controller design
+- Complex PCB routing and component placement
+
 ## Skills I Am Learning
 
 - PCB schematic design
