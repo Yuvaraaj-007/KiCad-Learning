@@ -1,38 +1,40 @@
-# KiCad Learning
+# KiCad Learning Projects
 
-Welcome to my KiCad learning repository.
-
-This repository contains the PCB design projects I create while learning KiCad.
+This repository contains my PCB design practice projects created while learning KiCad.
 
 ## Projects
 
-### 1. LED Blink Circuit
-- My first PCB design using KiCad.
-- Includes schematic and PCB layout.
-- Learned:
-  - Schematic creation
-  - Component placement
-  - PCB routing
-  - Design Rule Check (DRC)
+### 1. LED PCB Design
+- My first PCB design project
+- Designed a simple LED circuit with a current-limiting resistor
+- Learned schematic creation, PCB routing, and DRC verification
 
-### 2. [Your Second Project Name]
-- Brief description of the project.
-- Skills learned.
+### 2. 555 Timer LED Blinking Circuit
+- Designed an astable multivibrator using the 555 Timer IC
+- Created an LED blinking circuit using resistor-capacitor timing components
+- Learned the working of the 555 Timer in astable mode
+- Improved PCB layout and routing skills
 
-### 3. Push Button LED
-- LED controlled using a push button switch.
-- Learned:
-  - Push button connections
-  - Input and output circuits
-  - Schematic design
-  - PCB routing
+### 3. Push Button LED Circuit
+- Designed a circuit to control an LED using a push button switch
+- Learned switch connections and basic input-output circuits
+- Practiced schematic design and PCB layout creation
 
 ### 4. Transistor LED Circuit
-- LED controlled using a transistor as a switch.
-- Learned:
-  - Basics of transistor switching
-  - Biasing components
-  - Schematic capture
-  - PCB layout and routing
+- Designed an LED switching circuit using a transistor
+- Learned the basics of transistor operation and switching applications
+- Improved understanding of electronic components and PCB design workflow
 
-More projects will be added as I continue learning.
+## Skills I Am Learning
+
+- PCB schematic design
+- PCB layout and routing
+- Design Rule Check (DRC)
+- KiCad workflow
+- Electronic circuit design
+- 555 Timer applications
+- Switch and transistor circuits
+
+## Goal
+
+To improve my PCB design skills, strengthen my electronics knowledge, and build real-world embedded and PCB projects step by step.
