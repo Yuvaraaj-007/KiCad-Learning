@@ -26,7 +26,7 @@ This repository contains my PCB design practice projects created while learning 
 - Improved understanding of electronic components and PCB design workflow
 
 ### 5. Traffic light controller
-- - PCB schematic design
+- PCB schematic design
 - PCB layout and routing
 - Design Rule Check (DRC)
 - KiCad workflow
